@@ -10,7 +10,7 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: #24282d;
-  stroke: rgb(225, 228, 232);
+  stroke: #DEB841;
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -54,7 +54,7 @@ tr {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  fill: #639FAB;
   margin-right: 1ch;
   vertical-align: top;
 }
