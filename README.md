@@ -10,3 +10,4 @@
 </a>
 
 Credit to the creator, **[jstrieb](https://github.com/jstrieb/github-stats)** and credit to **[anuraghazra](https://github.com/anuraghazra/github-readme-stats)** for the original idea
+# MadLibs
