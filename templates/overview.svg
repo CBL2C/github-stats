@@ -45,14 +45,6 @@ td {
   color: #C9D1D9;
 }
 
-tr {
-  transform: translateX(-200%);
-  animation-duration: 2s;
-  animation-name: slideIn;
-  animation-function: ease-in-out;
-  animation-fill-mode: forwards;
-}
-
 .octicon {
   fill: #639FAB;
   margin-right: 1ch;
