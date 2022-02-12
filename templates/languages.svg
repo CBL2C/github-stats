@@ -9,7 +9,7 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: ##0D1117;
+  fill: #0D1117;
   stroke: #30363D;
   stroke-width: 1px;
   rx: 6px;
@@ -87,11 +87,11 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: #DEB841;
+  color: ##C9D1D9;
 }
 
 .percent {
-  color: #DEB841;
+  color: #C9D1D9;
 }
 </style>
 <g>
