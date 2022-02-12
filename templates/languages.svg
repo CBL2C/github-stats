@@ -44,11 +44,6 @@ li {
   margin-right: 2ch;
   align-items: center;
   flex-wrap: nowrap;
-  transform: translateX(-500%);
-  animation-duration: 2s;
-  animation-name: slideIn;
-  animation-function: ease-in-out;
-  animation-fill-mode: forwards;
 }
 
 
@@ -88,6 +83,7 @@ div.ellipsis {
 .percent {
   color: #C9D1D9;
 }
+  
 </style>
 <g>
 <rect x="5" y="5" id="background" />
