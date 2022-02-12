@@ -46,7 +46,7 @@ td {
 }
 
 .octicon {
-  fill: #639FAB;
+  fill: #206FEB;
   margin-right: 1ch;
   vertical-align: top;
 }
